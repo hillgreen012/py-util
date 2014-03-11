@@ -1,0 +1,2 @@
+manager(Strategy-Forward.sh) --> Ebuy(Strategy--Forword.sh) --> 132(Strategy-Ebuy.py)
+Ebuy(XDS-Forword.sh) --> 132(XDS-Ebuy.py)

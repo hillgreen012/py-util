@@ -1,0 +1,2 @@
+manager(Strategy-Forward.sh) --> Com(Strategy--Forword.sh) --> 132(Strategy-Com.py)
+Com(XDS-Forword.sh) --> 132(XDS-Com.py)
